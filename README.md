@@ -1,11 +1,10 @@
 # Conquistas do Perfil GitHub 🏆
 
 Este repositório documenta **todas as conquistas (Achievements) disponíveis no GitHub**, incluindo
-imagens oficiais, critérios conhecidos, níveis, variações visuais e observações práticas sobre como
-elas funcionam no perfil.
+imagens oficiais, descrições, critérios conhecidos, níveis (tiers) e variações visuais.
 
-O objetivo é servir como o **guia mais completo em português** sobre Achievements do GitHub, mantendo
-a mesma estrutura visual e organizacional usada pela própria plataforma.
+O objetivo é servir como o **guia mais completo em português (PT-BR)** sobre Achievements do GitHub,
+mantendo a mesma estrutura visual e organizacional utilizada pela plataforma.
 
 ---
 
@@ -35,15 +34,10 @@ a mesma estrutura visual e organizacional usada pela própria plataforma.
 ## 📖 Visão Geral
 
 As conquistas do GitHub são badges exibidos publicamente no perfil do usuário e refletem diferentes
-tipos de engajamento, como:
+formas de engajamento, como contribuições em código, participação em discussões, colaboração e apoio
+a projetos open source.
 
-- Contribuições em código
-- Participação em discussões
-- Colaboração com outros desenvolvedores
-- Apoio financeiro a projetos
-- Eventos históricos da plataforma
-
-Algumas conquistas são **raras ou limitadas**, enquanto outras evoluem conforme sua atividade.
+Algumas conquistas são permanentes, outras são históricas ou limitadas a períodos específicos.
 
 ---
 
@@ -52,70 +46,116 @@ Algumas conquistas são **raras ou limitadas**, enquanto outras evoluem conforme
 ### Arctic Code Vault Contributor ❄️
 ![Arctic Code Vault Contributor](images/arctic-code-vault-contributor-default.png)
 
-Conquista histórica concedida a desenvolvedores cujos repositórios foram selecionados para preservação
-no **Arctic Code Vault**, um arquivo físico criado para armazenar código open source por longo prazo.
+Conquista histórica concedida a desenvolvedores cujos códigos foram preservados no **Arctic Code Vault**.
 
-**Status:** Não é mais possível obter  
-**Ano de concessão:** 2020
+**✅ Como conquistar**  
+> ⚠️ Não é mais possível obter  
+Foi concedida automaticamente em 2020 a usuários que contribuíram com repositórios selecionados
+pelo GitHub para arquivamento de longo prazo.
+
+**📊 Critérios conhecidos**
+- Commits em repositórios públicos incluídos no programa
+- Processo totalmente automático
+
+**🥉🥈🥇 Níveis**  
+Não possui níveis.
 
 ---
 
 ### Mars 2020 Contributor 🚀
 ![Mars 2020 Contributor](images/mars-2020-contributor-default.png)
 
-Reconhece contribuições feitas a projetos relacionados à missão **Mars 2020** da NASA, incluindo
-softwares utilizados em pesquisas e simulações.
+Relacionada à missão **Mars 2020**, envolvendo projetos científicos e tecnológicos.
 
-**Status:** Conquista limitada  
-**Ano de concessão:** 2021
+**✅ Como conquistar**  
+> ⚠️ Não é mais possível obter  
+Foi concedida durante um período limitado para contribuições em repositórios específicos.
+
+**📊 Critérios conhecidos**
+- Commits em projetos associados à missão
+- Período de concessão encerrado
+
+**🥉🥈🥇 Níveis**  
+Não possui níveis.
 
 ---
 
 ### Galaxy Brain 🧠
 ![Galaxy Brain](images/galaxy-brain-default.png)
 
-Concedida a usuários que demonstram alto nível técnico ao responder perguntas e participar de
-discussões, especialmente em **GitHub Discussions**.
+Reconhece contribuições relevantes em discussões técnicas.
 
-Critérios comuns incluem:
-- Respostas marcadas como úteis
-- Engajamento consistente em tópicos técnicos
+**✅ Como conquistar**
+1. Participar de **GitHub Discussions**
+2. Criar respostas técnicas de alta qualidade
+3. Ter respostas reconhecidas como úteis
+
+**📊 Critérios conhecidos**
+- Qualidade das respostas
+- Engajamento consistente
+
+**🥉🥈🥇 Níveis**  
+Não possui níveis.
 
 ---
 
 ### Pair Extraordinaire 🤝
 ![Pair Extraordinaire](images/pair-extraordinaire-default.png)
 
-Obtida ao realizar **contribuições colaborativas**, normalmente associadas a commits realizados
-em conjunto com outros usuários.
+Reconhece contribuições colaborativas.
 
-Indicadores:
-- Commits com co-autoria
-- Pull requests colaborativos
+**✅ Como conquistar**
+1. Realizar commits com coautoria
+2. Utilizar `Co-authored-by:` nos commits
+3. Colaborar em pull requests conjuntos
+
+**📊 Critérios conhecidos**
+- Commits com múltiplos autores
+- Repositórios públicos
+
+**🥉🥈🥇 Níveis**  
+Não possui níveis.
 
 ---
 
 ### Pull Shark 🦈
 ![Pull Shark](images/pull-shark-default.png)
 
-Conquista associada à aceitação de **pull requests** em repositórios.
+Concedida a usuários com pull requests aceitos.
 
-#### Níveis
+**✅ Como conquistar**
+1. Criar pull requests em repositórios
+2. Ter os PRs aceitos (merged)
+3. Repetir o processo de forma consistente
+
+**📊 Critérios conhecidos**
+- Apenas PRs aceitos contam
+- Repositórios públicos
+
+#### 🥉🥈🥇 Níveis
 | Bronze | Prata | Ouro |
 |------|------|------|
 | ![](images/tiers/pull-shark-bronze.png) | ![](images/tiers/pull-shark-silver.png) | ![](images/tiers/pull-shark-gold.png) |
 
-Quanto maior o número de PRs aceitos, maior o nível exibido.
+Os níveis evoluem conforme o volume de PRs aceitos.
 
 ---
 
 ### Starstruck ⭐
 ![Starstruck](images/starstruck-default.png)
 
-Concedida quando um repositório seu recebe uma quantidade relevante de **estrelas (stars)** da
-comunidade.
+Obtida quando repositórios alcançam popularidade.
 
-#### Níveis
+**✅ Como conquistar**
+1. Criar repositórios públicos
+2. Compartilhar projetos úteis
+3. Receber estrelas da comunidade
+
+**📊 Critérios conhecidos**
+- Estrelas orgânicas
+- Engajamento real
+
+#### 🥉🥈🥇 Níveis
 | Bronze | Prata | Ouro |
 |------|------|------|
 | ![](images/tiers/starstruck-bronze.png) | ![](images/tiers/starstruck-silver.png) | ![](images/tiers/starstruck-gold.png) |
@@ -125,13 +165,17 @@ comunidade.
 ### Quickdraw ⚡
 ![Quickdraw](images/quickdraw-default.png)
 
-Obtida ao fechar rapidamente uma **issue ou pull request** após sua criação.
+Valoriza rapidez na colaboração.
 
-Esse badge valoriza:
+**✅ Como conquistar**
+1. Fechar issues ou PRs rapidamente
+2. Responder com agilidade após abertura
+
+**📊 Critérios conhecidos**
 - Tempo de resposta
-- Agilidade na colaboração
+- Eficiência
 
-#### Variações
+**🎨 Variações**
 | Claro | Médio | Escuro |
 |------|------|------|
 | ![](images/variants/quickdraw-default--light.png) | ![](images/variants/quickdraw-default--medium.png) | ![](images/variants/quickdraw-default--dark.png) |
@@ -141,44 +185,78 @@ Esse badge valoriza:
 ### Heart On Your Sleeve ❤️
 ![Heart On Your Sleeve](images/heart-on-your-sleeve-default.png)
 
-Conquista relacionada a receber reações positivas frequentes, como ❤️ e 🎉, em comentários,
-issues e pull requests.
+Relacionada a interações positivas.
+
+**✅ Como conquistar**
+1. Participar de issues, PRs e discussões
+2. Receber reações positivas da comunidade
+
+**📊 Critérios conhecidos**
+- Reações recebidas
+- Consistência
+
+**🥉🥈🥇 Níveis**  
+Não possui níveis.
 
 ---
 
 ### Open Sourcerer 🧙
 ![Open Sourcerer](images/open-sourcerer-default.png)
 
-Reconhece usuários com **participação contínua em projetos open source**, considerando:
-- Diversidade de repositórios
-- Frequência de contribuições
-- Colaboração comunitária
+Reconhece envolvimento contínuo com open source.
+
+**✅ Como conquistar**
+1. Contribuir com múltiplos projetos
+2. Manter frequência de commits
+3. Colaborar com diferentes repositórios
+
+**📊 Critérios conhecidos**
+- Diversidade
+- Continuidade
+
+**🥉🥈🥇 Níveis**  
+Não possui níveis.
 
 ---
 
 ### Public Sponsor 💸
 ![Public Sponsor](images/public-sponsor-default.png)
 
-Concedida a usuários que apoiam financeiramente projetos ou desenvolvedores por meio do
-**GitHub Sponsors**.
+Conquista ligada ao GitHub Sponsors.
+
+**✅ Como conquistar**
+1. Ativar patrocínio público
+2. Financiar pelo menos um projeto ou desenvolvedor
+
+**📊 Critérios conhecidos**
+- Sponsorship ativo
+- Conta pública
+
+**🥉🥈🥇 Níveis**  
+Não possui níveis.
 
 ---
 
 ### YOLO 😈
 ![YOLO](images/yolo-default.png)
 
-Uma das conquistas mais raras e menos documentadas. Está associada a ações específicas dentro
-da plataforma e pode aparecer sem aviso prévio.
+Conquista rara e pouco documentada.
+
+**✅ Como conquistar**
+- Associada a ações específicas e incomuns
+- Pode aparecer sem aviso prévio
+
+**📊 Critérios conhecidos**
+- Não divulgados oficialmente
+
+**🥉🥈🥇 Níveis**  
+Não possui níveis.
 
 ---
 
 ## 🎨 Temas, Variações e Níveis
 
-Algumas conquistas:
-- Evoluem conforme métricas internas
-- Possuem versões para temas claros e escuros
-- Podem ser ajustadas automaticamente pelo GitHub
-
+Algumas conquistas possuem níveis progressivos ou variações visuais adaptadas aos temas do GitHub.
 As imagens oficiais estão organizadas na pasta `images/`.
 
 ---
@@ -198,19 +276,17 @@ README.md
 
 ## 📌 Observações Importantes
 
-- O GitHub não publica critérios exatos para todas as conquistas
-- Algumas regras podem mudar sem aviso
-- Conquistas históricas não podem ser obtidas novamente
-- A exibição pode variar conforme tema do perfil
+- O GitHub não divulga critérios numéricos exatos
+- Algumas conquistas são históricas
+- Regras podem mudar sem aviso
 
 ---
 
 ## 🎯 Finalidade do Projeto
 
 - Documentação técnica
-- Estudo de métricas de engajamento
-- Referência visual
-- Apoio a desenvolvedores iniciantes e avançados
+- Referência educacional
+- Estudo de engajamento na plataforma
 
 ---
 
